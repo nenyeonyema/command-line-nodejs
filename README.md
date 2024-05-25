@@ -7,8 +7,8 @@ The other parameters can be more or more of your arguments as you wish.
 
 Example:
 >>> node commander.js append read cook wash-dishes do-laundary
-<<< >>>: node: the executable
-         commander.js: the script name
-         append: command name that executes the function in the script
-         read: this will be the filename which will store your task in json format
-         cook wash-dishes do-laundary: are your todo task arguments
+##### : node: the executable
+##### : commander.js: the script name
+##### : append: command name that executes the function in the script
+##### : read: this will be the filename which will store your task in json format
+##### : cook wash-dishes do-laundary: are your todo task arguments
