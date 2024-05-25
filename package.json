@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-command-line",
+  "version": "1.0.0",
+  "description": "This scripts uses the nodejs commander module to get todo tasks as arguments from the user.\r The first parameter the node executable\r The second parameter is the script or file name\r The third parameter is the command that will run the script\r The fourth parameter is the name of the to be created file where your arguments/tasks will be stored.\r The other parameters can be more or more of your arguments as you wish.",
+  "main": "commander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
